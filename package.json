@@ -1,7 +1,7 @@
 {
-  "name": "wepack-typescript-sass-starter",
+  "name": "quick-starter-project",
   "version": "1.0.0",
-  "description": "A mimalist start project using webpack 4, typescript 2.x, sass and polyfills",
+  "description": "A minimalist starter project using webpack 4, typescript 2.x, sass and polyfills",
   "main": "dist/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
