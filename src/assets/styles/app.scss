@@ -1,0 +1,9 @@
+body.debug div,
+body.debug header,
+body.debug main,
+body.debug aside,
+body.debug section,
+body.debug footer {
+  margin: 1rem;
+  border: 1px solid lightgreen;
+}
