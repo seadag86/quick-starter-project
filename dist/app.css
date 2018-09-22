@@ -1,0 +1,11 @@
+body.debug div,
+body.debug header,
+body.debug main,
+body.debug aside,
+body.debug section,
+body.debug footer {
+  margin: 1rem;
+  border: 1px solid lightgreen; }
+
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvYXNzZXRzL3N0eWxlcy9hcHAuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBLCtCQUErQiIsImZpbGUiOiJhcHAuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiYm9keS5kZWJ1ZyBkaXYsXG5ib2R5LmRlYnVnIGhlYWRlcixcbmJvZHkuZGVidWcgbWFpbixcbmJvZHkuZGVidWcgYXNpZGUsXG5ib2R5LmRlYnVnIHNlY3Rpb24sXG5ib2R5LmRlYnVnIGZvb3RlciB7XG4gIG1hcmdpbjogMXJlbTtcbiAgYm9yZGVyOiAxcHggc29saWQgbGlnaHRncmVlbjsgfVxuIl0sInNvdXJjZVJvb3QiOiIifQ==*/
